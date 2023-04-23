@@ -4,7 +4,7 @@
  </div>
  
    
-## About Me   
+## 👀 About Me   
 👩‍💻 Full Stack Software Engineer
   
 💬 Ask me about Java, Python, Large Scale Distributed Systems, C, C++ etc.
@@ -12,7 +12,10 @@
 🌍 Currently based in India
 
 🏅 Anna University Gold Medalist (2017)
-    
+   
+#
+ ![Snake animation](https://github.com/SteffiKeranJ/SteffiKeranJ/raw/output/github-contribution-grid-snake.svg)
+   
 ## 💻 Skills
 
 <div style="display: inline_block"><br>
