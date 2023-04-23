@@ -1,8 +1,10 @@
 <div>
 <div align="center">
    <h1>Hi there, I'm Steffi Keran Rani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-  </div>
+ </div>
  
+   
+## About Me   
 👩‍💻 Full Stack Software Engineer
   
 💬 Ask me about Java, Python, Large Scale Distributed Systems, C, C++ etc.
@@ -11,7 +13,7 @@
 
 🏅 Anna University Gold Medalist (2017)
     
-## Skills
+## 💻 Skills
 
 <div style="display: inline_block"><br>
   <p>
@@ -27,7 +29,7 @@
   </p>
 </div>
 
-## Github Stats
+## 🔝 Github Stats
   
 <div align="center">
    
@@ -37,6 +39,7 @@
    
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steffikeranj&hide_border=true" />
    
+   ![](https://github-contributor-stats.vercel.app/api?username=steffikeranj&limit=5&hide_border=true&combine_all_yearly_contributions=true)
    
    [![trophy](https://github-profile-trophy.vercel.app/?username=steffikeranj)](https://github.com/ryo-ma/github-profile-trophy)
    
