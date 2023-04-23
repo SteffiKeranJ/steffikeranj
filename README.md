@@ -52,7 +52,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=SteffiKeranJ&label=Profile%20views&color=ac3de3&style=flat" alt="me" /> </p>
    
- ## Also find me in
+ ## 🌐 Also find me in
 
    <p align="left"> 
       <a href="https://stackoverflow.com/users/7245145/steffi-keran-rani-j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
