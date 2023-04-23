@@ -14,7 +14,8 @@
 🏅 Anna University Gold Medalist (2017)
    
 #
- ![Snake animation](https://github.com/SteffiKeranJ/SteffiKeranJ/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SteffiKeranJ/SteffiKeranJ/raw/output/github-contribution-grid-snake.svg)
+---
    
 ## 💻 Skills
 
