@@ -21,21 +21,21 @@
   
 <div align="center">
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steffikeranj&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steffikeranj&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffikeranj&layout=compact&langs_count=10&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffikeranj&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&count_private=true"/>
    
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steffikeranj&hide_border=true" />
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steffikeranj&theme=chartreuse-dark&hide_border=true" />
    
-   ![](https://github-contributor-stats.vercel.app/api?username=steffikeranj&limit=5&hide_border=true&combine_all_yearly_contributions=true)
+   ![](https://github-contributor-stats.vercel.app/api?username=steffikeranj&limit=5&theme=chartreuse-dark&hide_border=true&combine_all_yearly_contributions=true)
    
-   [![trophy](https://github-profile-trophy.vercel.app/?username=steffikeranj)](https://github.com/ryo-ma/github-profile-trophy)
+ 
    
 </div>
 
 
 ## 💻 Skills
-
+   
 <div style="display: inline_block"><br>
   <p>
   <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -52,9 +52,7 @@
 
   
    
- ## 🌐 Also find me in
+ ## 🌐 Socials
+   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/steffi-keran-rani-j) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/7245145/steffi-keran-rani-j) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/steffikeranj) 
 
-   <p align="left"> 
-      <a href="https://stackoverflow.com/users/7245145/steffi-keran-rani-j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-      <a href="https://twitter.com/steffikeranj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-      <a href="https://in.linkedin.com/in/steffi-keran-rani-j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
