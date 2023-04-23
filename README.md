@@ -30,8 +30,6 @@
 ## Github Stats
   
 <div align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steffikeranj&hide_border=true&title_color=B7E703&icon_color=B7E703" />
-
    
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steffikeranj&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   
