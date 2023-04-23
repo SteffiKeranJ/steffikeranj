@@ -4,7 +4,7 @@
  </div>
  
    
-## 👀 About Me   
+## 👀 About Me   <img src="https://komarev.com/ghpvc/?username=SteffiKeranJ&label=Profile%20views&color=ac3de3&style=flat" alt="me" /> 
 👩‍💻 Full Stack Software Engineer
   
 💬 Ask me about Java, Python, Large Scale Distributed Systems, C, C++ etc.
@@ -12,11 +12,28 @@
 🌍 Currently based in India
 
 🏅 Anna University Gold Medalist (2017)
-   
-#
+
+## 🔝 Github Stats
 ![Snake animation](https://github.com/SteffiKeranJ/SteffiKeranJ/raw/output/github-contribution-grid-snake.svg)
----
+
+
+
+  
+<div align="center">
    
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steffikeranj&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffikeranj&layout=compact&langs_count=10&hide_border=true&count_private=true"/>
+   
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steffikeranj&hide_border=true" />
+   
+   ![](https://github-contributor-stats.vercel.app/api?username=steffikeranj&limit=5&hide_border=true&combine_all_yearly_contributions=true)
+   
+   [![trophy](https://github-profile-trophy.vercel.app/?username=steffikeranj)](https://github.com/ryo-ma/github-profile-trophy)
+   
+</div>
+
+
 ## 💻 Skills
 
 <div style="display: inline_block"><br>
@@ -33,24 +50,7 @@
   </p>
 </div>
 
-## 🔝 Github Stats
   
-<div align="center">
-   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steffikeranj&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffikeranj&layout=compact&langs_count=10&hide_border=true&count_private=true"/>
-   
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=steffikeranj&hide_border=true" />
-   
-   ![](https://github-contributor-stats.vercel.app/api?username=steffikeranj&limit=5&hide_border=true&combine_all_yearly_contributions=true)
-   
-   [![trophy](https://github-profile-trophy.vercel.app/?username=steffikeranj)](https://github.com/ryo-ma/github-profile-trophy)
-   
-</div>
-
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=SteffiKeranJ&label=Profile%20views&color=ac3de3&style=flat" alt="me" /> </p>
    
  ## 🌐 Also find me in
 
